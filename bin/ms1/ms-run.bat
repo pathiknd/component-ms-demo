@@ -1,0 +1,1 @@
+java -cp ms-shell-0.1.0.jar -Dloader.path=.\lib\base-component-0.1.0.jar org.springframework.boot.loader.PropertiesLauncher
